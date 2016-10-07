@@ -1,0 +1,14 @@
+# Result output
+result/*
+*result/
+
+# Settings
+settings.py*
+*settings.py
+
+# Python compiled cache
+*pyc
+pyc*
+
+# Python cache
+*pycache*/
